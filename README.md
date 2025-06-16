@@ -1,7 +1,5 @@
 # CPU-Thermal-Simulation-with-RC-Network-and-DVFS-Control
 
-# CPU Thermal Simulation with RC Network and DVFS Control
-
 This project simulates the thermal behavior of a CPU using an RC thermal network model, incorporating both dynamic and leakage power. It compares three control strategies:
 
 -  **Free-running** (no control)
