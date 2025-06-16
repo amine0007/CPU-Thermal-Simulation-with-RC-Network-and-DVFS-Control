@@ -44,6 +44,6 @@ The goal is to evaluate thermal regulation, power efficiency, and stability unde
 ## 📬 Contact
 
 Mohammed Amine ZNIYED  
-🧠 Thermal Modeling Engineer Candidate  
-📧 [your.email@example.com]  
+Thermal Modeling Engineer Candidate  
+📧 [med.amine.zniyed@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/amine-zniyed-1154ba190/)
