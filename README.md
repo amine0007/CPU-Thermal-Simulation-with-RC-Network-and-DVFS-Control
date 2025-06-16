@@ -6,7 +6,7 @@ This project simulates the thermal behavior of a CPU using an RC thermal network
 -  **Threshold-based DVFS**
 -  **PID-controlled DVFS**
 
-The goal is to evaluate thermal regulation, power efficiency, and stability under a realistic synthetic workload.
+The goal is to evaluate thermal regulation, power efficiency, and stability under a synthetic workload.
 
 ---
 
